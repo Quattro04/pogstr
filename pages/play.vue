@@ -1,5 +1,5 @@
 <template>
     <section class="section px-8">
-        GAMEZ
+        GAMEZ EZ LEL
     </section>
 </template>
